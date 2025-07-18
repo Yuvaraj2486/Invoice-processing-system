@@ -51,9 +51,6 @@ The Invoice Processing System is a full-stack application developed using React,
 - Add multi-user support with role-based access.
 - Implement advanced reporting and analytics features.
 - Enhance security with encryption and authentication mechanisms.
-
-## License 📜
-This project is licensed under the MIT License. See the LICENSE file for details.
-
+  
 ## Contact 📬
 For questions or contributions, open an issue or submit a pull request on the GitHub repository 🙌.
